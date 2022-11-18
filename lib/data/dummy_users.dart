@@ -1,6 +1,4 @@
-
-
-import '../user.dart';
+import 'package:flutter_crud/user.dart';
 
 const DUMMY_USERS ={
   // ignore: unnecessary_const
